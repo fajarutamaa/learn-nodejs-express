@@ -4,7 +4,7 @@ const userRoute = require('./user.route')
 const morgan = require('morgan')
 
 router.use(morgan('dev'))
-router.get('/ping', (req, res, next) => {
+router.get('/ping', (req, res) => {
     res.json({
         "data": null,
         "message": "PONG",
