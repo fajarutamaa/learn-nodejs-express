@@ -1,7 +1,7 @@
 # Project setup
 Clone the project from GitHub repository:
 
-      git clone https://github.com/fajarutamaa/web-development-fga.git
+      git clone https://github.com/fajarutamaa/learn-nodejs-express.git
 
 Install all package dependencies:
 
